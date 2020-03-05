@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "c34f3bcc-3497-44c0-82cf-ad45f9aa6c70",
+		"name": "avaliacao",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/avaliacao/dados",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:8080/avaliacao/dados",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"avaliacao",
+						"dados"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
